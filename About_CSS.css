@@ -1,0 +1,62 @@
+/*General About page */
+
+
+
+div.header_Container {
+	width: 60%;
+	background: gray;
+	border: solid 5px;
+	border-color: #900E74;
+	text-align: center;
+}
+
+
+div.Contact {
+	border: solid 5px;
+	border-color: #900E74;
+	float: right;
+	width: 60%;	
+	background: #DADADA;
+}
+
+div.Hours {
+	border: solid 5px;
+	border-color: #900E74;
+	float: right;
+	width: 60%;
+	background: #DADADA;
+
+}
+
+div.spacing {
+	padding: 10px;
+	float: right;
+	width: 60%;	
+}
+
+.text {
+	text-align:center;
+	display: box;
+	
+
+}
+
+img.Food_image {
+	float: left;
+	border: solid 5px;
+	border-color: #900E74;
+}
+
+div.Main_Container {
+	text-align: center;
+	width: 80%;
+	border: solid 5px;
+	border-color: #900E74;
+	background: #DADADA;
+	
+}
+
+div.Main_Text {
+	display: box;
+	text-align: center;
+}
